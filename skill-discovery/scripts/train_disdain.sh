@@ -1,0 +1,2 @@
+python code/disdain.py --gpu_id "0,1" --reward_type "log_clipping" --environment_type large --train_goal_duration 20 --train_code_arity 128 \
+--train_iterations 40000000 --train_bonus_weight 20  --disable_ensemble False --train_seed 1
