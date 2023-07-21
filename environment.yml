@@ -1,4 +1,4 @@
-name: irrl5
+name: irrl
 channels:
   - pytorch
   - nvidia
